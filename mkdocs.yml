@@ -1,0 +1,58 @@
+site_name: FORMA Marketing Division
+nav:
+  - Home: README.md
+  - Architecture:
+      - Hierarchy: 01-architecture/hierarchy.md
+      - Roles: 01-architecture/roles.md
+      - Workflows: 01-architecture/workflows.md
+  - AI Agents:
+      - Director: 02-ai-agents/director/PROMETHEUS-MK.md
+      - Manager: 02-ai-agents/manager/APOLLO-MK.md
+      - Senior Strategist: 02-ai-agents/senior/ATHENA-MK.md
+      - Specialists:
+          - HERMES-SEO: 02-ai-agents/specialists/HERMES-SEO.md
+          - ORPHEUS-CW: 02-ai-agents/specialists/ORPHEUS-CW.md
+          - IRIS-SM: 02-ai-agents/specialists/IRIS-SM.md
+          - ARES-ADS: 02-ai-agents/specialists/ARES-ADS.md
+          - HELIOS-CM: 02-ai-agents/specialists/HELIOS-CM.md
+          - ECHO-EM: 02-ai-agents/specialists/ECHO-EM.md
+          - JANUS-FB: 02-ai-agents/specialists/JANUS-FB.md
+          - CRONOS-AN: 02-ai-agents/specialists/CRONOS-AN.md
+          - MUSE-CG: 02-ai-agents/specialists/MUSE-CG.md
+          - ZEUS-TT: 02-ai-agents/specialists/ZEUS-TT.md
+          - ODIN-LI: 02-ai-agents/specialists/ODIN-LI.md
+          - LOKI-RD: 02-ai-agents/specialists/LOKI-RD.md
+  - Systems:
+      - Content: 
+          - TikTok: 03-systems/content-system/tiktok.md
+          - Reels: 03-systems/content-system/reels.md
+          - LinkedIn: 03-systems/content-system/linkedin.md
+          - Reddit: 03-systems/content-system/reddit.md
+      - Funnels:
+          - Awareness: 03-systems/funnel-system/awareness.md
+          - Conversion: 03-systems/funnel-system/conversion.md
+          - Retention: 03-systems/funnel-system/retention.md
+      - Automation:
+          - Zapier: 03-systems/automation-system/zapier.md
+          - Make: 03-systems/automation-system/make.md
+          - AI Automation: 03-systems/automation-system/ai-automation.md
+      - Analytics:
+          - KPIs: 03-systems/analytics-system/kpis.md
+          - Dashboards: 03-systems/analytics-system/dashboards.md
+          - Reporting: 03-systems/analytics-system/reporting.md
+  - Launch:
+      - 72-Hour Launch: 06-launch/72-hour-launch.md
+      - 30-Day Plan: 06-launch/30-day-plan.md
+      - Ads Plan: 06-launch/ads-plan.md
+  - Docs:
+      - Whitepaper: 07-docs/whitepaper.md
+      - API: 07-docs/api.md
+      - Changelog: 07-docs/changelog.md
+  - Control Panel:
+      - Agent Commands: 08-control-panel/agent-commands.md
+      - Daily Ops: 08-control-panel/daily-operations.md
+      - Weekly Ops: 08-control-panel/weekly-operations.md
+      - Monthly Ops: 08-control-panel/monthly-operations.md
+      - Prompts: 08-control-panel/prompts.md
+theme:
+  name: material
